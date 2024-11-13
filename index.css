@@ -24,7 +24,7 @@ html {
 }
 
 .background {
-    background: rgba(0, 0, 0, 0.7)url('Screenshot\ \(74\).png');
+    background: rgba(0, 0, 0, 0.7)url('Screenshot(74).png');
     background-size: cover;
     background-blend-mode: darken;
 }
